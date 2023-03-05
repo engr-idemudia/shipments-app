@@ -1,4 +1,4 @@
-## The app is aimed to depict a functional view of a logistics company's work plan, where all the implementation of a full CRUD operations can be executed on data. 
+### The app is aimed to depict a functional view of a logistics company's work plan, where all the implementation of a full CRUD operations can be executed on data. 
 
 ### Getting Started with Create React App
 
